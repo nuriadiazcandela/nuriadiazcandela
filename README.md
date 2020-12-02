@@ -3,6 +3,10 @@
 <!--
 **nuriadiazcandela/nuriadiazcandela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://media.giphy.com/media/l0HlNHAeMZPIp5peg/giphy.gif" width="27px">
+
+👋 Hola! Me llamo Nuria y soy Desarrolladora Jr. Front-end. También soy Licenciada en Administración y Dirección de Empresas. He trabajado con JavaScript, React, HTML5 & CSS3 (Sass, Bootstrap) y sigo practicando y aprendiendo.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
