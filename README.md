@@ -4,7 +4,7 @@
 ## I'm a Baby Front-End Developer from Elche (Alicante) 🌴
 
 
-* Right now I'm working on my skills from home 🏡🚀🔥	
+* Right now I'm working on my skills at home 🏡🚀🔥	
 
 
 ## Technologies	
@@ -15,8 +15,8 @@
 * Gulp.
 
 ## Soft Skills	
-* Teamwork🙌 
-* Adaptability🌾
+* Teamwork 🙌 
+* Adaptability 🌾
 * Organization 🗂️
 * Ease of learning 🤓
 
