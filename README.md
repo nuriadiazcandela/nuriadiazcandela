@@ -1,20 +1,29 @@
-### Hi there 👋
+### Hi, I'm Nuria 😊
 
-<!--
-**nuriadiazcandela/nuriadiazcandela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://media.giphy.com/media/l0HlNHAeMZPIp5peg/giphy.gif" width="27px">
+## I'm a Baby Front-End Developer from Elche (Alicante) 🌴
 
-👋 Hola! Me llamo Nuria y soy Desarrolladora Jr. Front-end. También soy Licenciada en Administración y Dirección de Empresas. He trabajado con JavaScript, React, HTML5 & CSS3 (Sass, Bootstrap) y sigo practicando y aprendiendo.
 
-Here are some ideas to get you started:
+* Right now I'm working on my skills from home 🏡🚀🔥	
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Technologies	
+* HTML5, CSS3, CSS Grid, SASS.
+* JavaScript. 
+* React.
+* Git.
+* Gulp.
+
+## Soft Skills	
+* Teamwork🙌 
+* Adaptability🌾
+* Organization 🗂️
+* Ease of learning 🤓
+
+## Get in Touch!	
+
+<a href="https://www.linkedin.com/in/nuriadiazcandela/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white"></a>
+
+<a href="mailto:nuriadiazcandela@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%c14438?logo=gmail&logoColor=white"></a>	
+
+<img src="https://media.giphy.com/media/l0HlNHAeMZPIp5peg/giphy.gif" width="50px">
