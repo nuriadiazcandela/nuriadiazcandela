@@ -16,10 +16,10 @@
 * VSCode.
 
 ## Soft Skills	
-* Teamwork 🙌 
-* Adaptability 🌾
-* Organization 🗂️
-* Ease of learning 🤓
+* Trabajo en equipo 🙌 
+* Adaptabilidad 🌾
+* Organización 🗂️
+* Facilidad de aprendizaje 🤓
 
 ## Get in Touch!	
 
