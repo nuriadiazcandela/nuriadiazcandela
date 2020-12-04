@@ -1,10 +1,10 @@
-# Hi, I'm Nuria 😊
+# Hola, Soy Nuria 😊
 
 
-## I'm a Baby Front-End Developer from Elche (Alicante) 🌴
+## Licenciada en ADE reinventada a Desarrolladora Front-End desde Elche (Alicante) 🌴
 
 
-* Right now I'm working on my skills at home 🏡🚀🔥	
+* Ahora mismo, trabajando y mejorando mis habilidades desde casa 🏡🚀🔥	
 
 
 ## Technologies	
@@ -12,7 +12,8 @@
 * JavaScript. 
 * React.
 * Git.
-* Gulp.
+* GitHub.
+* VSCode.
 
 ## Soft Skills	
 * Teamwork 🙌 
@@ -24,6 +25,6 @@
 
 <a href="https://www.linkedin.com/in/nuriadiazcandela/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white"></a>
 
-<a href="mailto:nuriadiazcandela@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%c14438?logo=gmail&logoColor=white"></a>	
+<a href="mailto:nuriadiazcandela@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>	
 
 <img src="https://media.giphy.com/media/l0HlNHAeMZPIp5peg/giphy.gif" width="50px">
