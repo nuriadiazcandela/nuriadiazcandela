@@ -31,6 +31,6 @@
 
 <a href="mailto:nuriadiazcandela@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>	
 
-<a href="https://drive.google.com/file/d/1FGidpA3ScDHyymg4x0CZiq8eYNQqkMmS/view?usp=sharing" target="_blank"><img alt="CV" src="https://img.shields.io/badge/-download%20CV-green"></a>
+<a href="https://drive.google.com/file/d/1FGidpA3ScDHyymg4x0CZiq8eYNQqkMmS/view?usp=sharing" target="_blank"><img alt="CV" src="https://img.shields.io/badge/-Download%20CV-green"></a>
 
 <img src="https://media.giphy.com/media/l0HlNHAeMZPIp5peg/giphy.gif" width="50px">
