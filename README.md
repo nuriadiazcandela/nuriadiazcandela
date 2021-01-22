@@ -5,7 +5,7 @@
 
 
 * Ahora mismo, trabajando y mejorando mis habilidades desde casa 🏡🚀🔥	
-* ✨ <a href=" https://nuriadiazcandela.github.io/Portfolio/"> Mi Portfolio (in progress..)</a>
+* ✨ <a href="https://nuriadiazcandela.github.io/Portfolio/"> Mi Portfolio (in progress..)</a>
 
 
 ## Technologies	
