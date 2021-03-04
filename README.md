@@ -4,14 +4,15 @@
 ## Licenciada en ADE reinventada a Desarrolladora Front-End desde Elche (Alicante) 🌴
 
 
-* Trabajando y mejorando mis habilidades desde casa 🏡🚀🔥	
-* ✨ <a href="https://nuriadiazcandela.github.io/Portfolio/" target="_blank"> Mi Portfolio (in progress..)</a>
+* Trabajando y mejorando mis habilidades desde casa 🏡  🚀  🔥	
+* ✨ <a href="https://nuriadiazcandela.github.io/Portfolio/" target="_blank"> Mi Portfolio </a>
 
 
 ## Technologies	
 * HTML5, CSS3, CSS Grid, SASS.
 * JavaScript. 
 * React.
+* PHP.
 * Git.
 * GitHub.
 * VSCode.
