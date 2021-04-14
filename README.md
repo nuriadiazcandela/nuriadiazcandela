@@ -1,12 +1,7 @@
 # Hola, Soy Nuria 😊
 
-
-## Licenciada en ADE reinventada a Desarrolladora Front-End desde Elche (Alicante) 🌴
-
-
-* Trabajando y mejorando mis habilidades desde casa 🏡  🚀  🔥	
+# Licenciada en ADE y Desarrolladora Front-End desde Elche (Alicante) 🌴
 * ✨ <a href="https://nuriadiazcandela.github.io/Portfolio/" target="_blank"> Mi Portfolio </a>
-
 
 ## Technologies	
 * HTML5, CSS3, CSS Grid, SASS.
@@ -14,14 +9,6 @@
 * React.
 * PHP.
 * Git.
-* GitHub.
-* VSCode.
-
-## Soft Skills	
-* Trabajo en equipo 🙌 
-* Adaptabilidad 🌾
-* Organización 🗂️
-* Facilidad de aprendizaje 🤓
 
 ## Certifications
 * FrontEnd Developer at <a href="https://adalab.es/" target="_blank"> Adalab Digital</a>
