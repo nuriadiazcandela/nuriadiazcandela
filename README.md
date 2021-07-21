@@ -4,10 +4,9 @@
 * ✨ <a href="https://nuriadiazcandela.github.io/Portfolio/" target="_blank"> Mi Portfolio </a>
 
 ## Technologies	
-* HTML5, CSS3, CSS Grid, SASS.
+* HTML5, CSS3, CSS Grid, SASS, Flexbox, Bootstrap.
 * JavaScript. 
 * React.
-* PHP.
 * Git.
 
 ## Certifications
