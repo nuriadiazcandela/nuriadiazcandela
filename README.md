@@ -1,6 +1,6 @@
 # Hola, Soy Nuria 😊
 
-# Licenciada en ADE y Desarrolladora Front-End desde Elche (Alicante) 🌴
+# Desarrolladora Front-End y Licenciada en ADE. Elche (Alicante) 🌴
 * ✨ <a href="https://nuriadiazcandela.github.io/Portfolio/" target="_blank"> Mi Portfolio </a>
 
 ## Technologies	
@@ -8,10 +8,12 @@
 * JavaScript. 
 * React.
 * Git.
+* ...
 
 ## Certifications
 * FrontEnd Developer at <a href="https://adalab.es/" target="_blank"> Adalab Digital</a>
 * Responsive Web Design Certification (300 hours) at <a href="https://www.freecodecamp.org/" target="_blank"> FreeCodeCamp</a>
+* Bootcamp JavaScript online at <a href="https://lemoncode.net/" target="_blank"> Lemoncode :lemon:</a>
 
 ## Get in Touch!	
 
